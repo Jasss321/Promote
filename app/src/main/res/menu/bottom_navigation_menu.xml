@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_dashboard"
+        android:icon="@drawable/dashboard"
+        android:title="Dashboard" />
+
+    <item
+        android:id="@+id/action_upload_shop"
+        android:icon="@drawable/upload_shop"
+        android:title="Upload Shop" />
+
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/ic_accounts"
+        android:title="Account" />
+    <item
+        android:id="@+id/action_team"
+        android:icon="@drawable/team_info"
+        android:title="Team" />
+    <item
+        android:id="@+id/action_favorites"
+        android:icon="@drawable/favorite"
+        android:title="Favorites" />
+</menu>
